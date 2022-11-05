@@ -1,0 +1,42 @@
+﻿*{
+    font-family: sans-serif;
+}
+body {
+    background-color: lightblue;
+
+}
+p{
+    color:red;
+}
+h1{
+    color:darkslategray;
+}
+h2{
+    color: yellow;
+}
+a{
+    color: green;
+}
+img{
+    width: 400px;
+    height: 600px;
+}
+.right{
+    float:right;
+    margin:0;
+}
+.left{
+    float: left;
+    margin:0;
+}
+.tg{
+    width: 75px;
+    height: 50px;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+}
+.facts{
+    text-align:center;
+    margin: 10px;
+}
